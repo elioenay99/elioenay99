@@ -15,8 +15,7 @@
 </div>
   
 ## Olá! Eu sou Ataías Elioenay
-- 🔭 Me formando em ciências da computação pela UERR
-- 🌱 Estudando Typer Script
+- 🔭 Formado em ciências da computação pela UERR
 - 😄 Pronome: Ele/Dele
  
 <div> 
