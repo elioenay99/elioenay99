@@ -15,9 +15,7 @@
 </div>
   
 ## Olá! Eu sou Ataías Elioenay
-- 🔭 Formado em ciências da computação pela UERR
-- 😄 Pronome: Ele/Dele
- 
+- 🔭 Formado em ciências da computação pela UERR 
 <div> 
   <a href="https://www.instagram.com/ataiaselioenay/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:elioenay99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
